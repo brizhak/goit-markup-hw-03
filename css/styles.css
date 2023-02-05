@@ -193,8 +193,7 @@ img {
 }
 /*-----------------about---------------------*/
 .about {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-bottom: 0;
 }
 .about-list {
     display: flex;
@@ -314,5 +313,5 @@ img {
     border-bottom: 1px solid #E7E9FC;
 }
 .portfolio-item-title {
-    margin-top: 8px;
+    margin-bottom: 8px;
 }
